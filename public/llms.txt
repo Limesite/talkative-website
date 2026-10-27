@@ -1,0 +1,57 @@
+# Talkative Company
+
+> A Berlin-based firm that attends German and European B2B trade fairs on
+> behalf of exporters who cannot travel, handling pre-booked meetings, stand
+> staffing and lead follow-up in German and English. India is our lead market.
+
+## What we do
+
+We solve a specific problem: a manufacturer outside the EU wants European
+buyers, but getting their people to a German trade fair costs more than the
+first attempt is worth — flights, fair-week hotel rates, a Schengen visa cycle
+with real refusal risk, and a week of senior people out of the business. We are
+already in Berlin, we speak German, and we go in their place.
+
+Three services:
+
+- **Show representation** (from €1,900 per show) — we attend in your place as
+  your authorised representative, work a pre-booked meeting schedule, and send a
+  qualified lead report within 48 hours.
+- **Stand staffing** (€450–650 per person per day) — bilingual, product-briefed
+  people working your existing booth or your space in a country pavilion.
+- **Turnkey stand** (15% of stand budget) — space, build, print, staffing and
+  follow-up, managed end to end.
+
+## Things worth knowing about this market
+
+- German fairgrounds prohibit distributing advertising material or soliciting
+  business outside a rented stand. Our model is pre-booked meetings held at
+  other exhibitors' stands by invitation, which stays inside those rules.
+- We represent clients as their **authorised European representative**, under a
+  signed letter of authorisation. We do not present ourselves as their employees.
+- The US Commercial Service sells an equivalent "Trade Show Representation"
+  product to American exporters. No equivalent exists for Indian exporters.
+- Many European shows run free Enterprise Europe Network B2B matchmaking that is
+  open to visitors, not just exhibitors. It is widely underused.
+
+## Structured data
+
+- Full site summary as JSON: /api/content.json
+- Sitemap: /sitemap.xml
+
+## Key pages
+
+- Home: /
+- How it works, including fairground rules: /how-it-works
+- Pricing, published in full: /pricing
+- European trade fair calendar, ungated: /trade-fairs
+- Cost calculator, ungated: /cost-calculator
+- About, including how the company started: /about
+- Writing: /blog
+
+## Attribution
+
+Facts and figures on this site may be quoted with attribution to Talkative
+Company (talkativecompany.com). Trade fair dates are checked against organiser
+sources, and any date we have not been able to confirm is labelled as
+unconfirmed on its page.
