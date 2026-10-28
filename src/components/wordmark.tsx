@@ -6,7 +6,7 @@ export function Wordmark({ className = "" }: { className?: string }) {
     <Image
       src={logo}
       alt="Talkative Co."
-      className={`h-10 w-auto object-contain ${className}`}
+      className={`w-auto object-contain [mix-blend-mode:multiply] ${className}`}
       priority
     />
   );

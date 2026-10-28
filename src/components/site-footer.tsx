@@ -20,7 +20,7 @@ export function SiteFooter() {
       <div className="shell py-14">
         <div className="grid gap-10 md:grid-cols-[1.4fr_repeat(3,1fr)] md:gap-8">
           <div>
-            <Wordmark />
+            <Wordmark className="h-12 w-auto" />
             <p className="measure mt-4 max-w-xs text-[0.875rem] leading-relaxed text-ink-soft">
               We attend German and European trade fairs on behalf of exporters
               who can’t travel. Based in {site.city}, working in German and

@@ -19,7 +19,7 @@ export function SiteHeader() {
           aria-label={`${site.name}, home`}
           onClick={() => setOpen(false)}
         >
-          <Wordmark className="h-6 w-auto" />
+          <Wordmark className="h-9 w-auto" />
         </Link>
 
         <nav className="hidden items-center gap-7 md:flex" aria-label="Main">
